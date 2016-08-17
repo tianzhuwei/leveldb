@@ -1,3 +1,6 @@
+
+#### 这是我接触的第一个开源项目，其中要学习的东西真的太多了，很棒的代码风格，很牛的项目
+
 **LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.**
 
 [![Build Status](https://travis-ci.org/google/leveldb.svg?branch=master)](https://travis-ci.org/google/leveldb)
